@@ -1,6 +1,6 @@
 # Hi, I'm Imran Al Nafiee
 
-**Full-Stack Developer & Co-Founder at [Lumorise](https://lumorise.com)** with 4+ years of experience building production-grade web applications for real businesses. I specialize in modern TypeScript ecosystems, delivering end-to-end solutions -- from database architecture to polished, high-performance frontends.
+**Full-Stack Developer & Co-Founder at [Lumorise](https://lumorise.io)** with 4+ years of experience building production-grade web applications for real businesses. I specialize in modern TypeScript ecosystems, delivering end-to-end solutions -- from database architecture to polished, high-performance frontends.
 
 ---
 
@@ -75,4 +75,4 @@ Canvas-based hero animation with 2,500+ particles forming text, spring physics m
 
 [![GitHub](https://img.shields.io/badge/GitHub-imranaliraqi-181717?style=flat&logo=github)](https://github.com/imranaliraqi)
 [![Email](https://img.shields.io/badge/Email-alnafieeimran%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alnafieeimran@gmail.com)
-[![Lumorise](https://img.shields.io/badge/Lumorise-Website-6366F1?style=flat&logo=google-chrome&logoColor=white)](https://lumorise.com)
+[![Lumorise](https://img.shields.io/badge/Lumorise-Website-6366F1?style=flat&logo=google-chrome&logoColor=white)](https://lumorise.io)
