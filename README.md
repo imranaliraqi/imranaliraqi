@@ -55,8 +55,8 @@ React + Vite frontend paired with WordPress as a headless CMS. Uses shadcn/ui co
 ### Service Business Site with Secure Forms
 Marketing and lead-gen site for a security services company, built on Next.js with GSAP motion. Lead forms run through react-hook-form + Zod validation, Upstash Redis rate limiting, and transactional delivery via Resend, with backend-only logic isolated behind server-only modules.
 
-### Agency Website with Particle Animation
-Canvas-based hero animation with 2,600+ particles forming text via 4px pixel sampling, spring-physics mouse tracking, and a consistent 60 FPS render loop. Pairs a dual-row infinite portfolio carousel with GSAP-driven motion and Lenis smooth scrolling.
+### Tech Agency Website
+High-end agency site with an animated deploy-terminal hero (typewriter sequence over a 3D-projected star-field canvas that respects reduced-motion preferences), a dual-row infinite portfolio carousel, and dynamic service pages. Built on Next.js with GSAP-driven motion and Lenis smooth scrolling.
 
 ---
 
@@ -65,7 +65,7 @@ Canvas-based hero animation with 2,600+ particles forming text via 4px pixel sam
 - **Full-Stack Delivery** -- database schema to deployed product, owned end-to-end
 - **Payment Infrastructure** -- Stripe webhooks, subscriptions, invoicing, and cart systems
 - **Authentication & Security** -- 2FA, rate limiting, session management, account lockout, CVE scanning
-- **Motion & Performance** -- canvas particle systems at 60 FPS, GSAP and Lenis scroll animation, static exports, image optimization
+- **Motion & Performance** -- GSAP and Lenis scroll animation, canvas effects with reduced-motion support, static exports, image optimization
 - **Data Layer Flexibility** -- PostgreSQL with Prisma, raw MySQL, and Redis, picking the right persistence model per project
 - **API Integrations** -- Stripe, NHTSA, MarketCheck, Google OAuth, Google Wallet, Resend, Discord webhooks
 - **Internationalization** -- bilingual sites with automatic language detection
