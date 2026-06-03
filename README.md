@@ -72,13 +72,6 @@ High-end agency site with an animated deploy-terminal hero (typewriter sequence 
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranaliraqi&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranaliraqi&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-imranaliraqi-181717?style=flat&logo=github)](https://github.com/imranaliraqi)
